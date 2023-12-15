@@ -3,7 +3,7 @@ print("Hello World")
 
 # Comments in Python Denoted by "#".
 
-# Variables should not be Keywords.
+# Variable name should not be a Keywords.
 # Variable name must start with a letter.
 # Variable name cannot start with a number.
 # Variable contain only Alpha-Numeric and Underscore.
